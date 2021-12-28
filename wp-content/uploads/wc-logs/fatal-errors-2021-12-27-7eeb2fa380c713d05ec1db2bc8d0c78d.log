@@ -1,0 +1,4 @@
+2021-12-27T10:10:39+00:00 CRITICAL Out of memory (allocated 85983232) (tried to allocate 114688 bytes) in C:\Users\prnds\Sites\www.autodoc.dev.cc\wp-content\plugins\elementor\includes\elements\section.php on line 854
+
+2021-12-27T10:10:45+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 32768 bytes) in C:\Users\prnds\Sites\www.autodoc.dev.cc\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-product-shipping-classes-v2-controller.php on line 1
+
